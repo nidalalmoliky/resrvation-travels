@@ -1,0 +1,13 @@
+c:\users\nidal almoliky\documents\visual studio 2012\Projects\project Books\project Books\bin\Debug\project Books.exe.config
+c:\users\nidal almoliky\documents\visual studio 2012\Projects\project Books\project Books\bin\Debug\project Books.exe
+c:\users\nidal almoliky\documents\visual studio 2012\Projects\project Books\project Books\bin\Debug\project Books.pdb
+c:\users\nidal almoliky\documents\visual studio 2012\Projects\project Books\project Books\obj\Debug\project_Books.Form1.resources
+c:\users\nidal almoliky\documents\visual studio 2012\Projects\project Books\project Books\obj\Debug\project_Books.Properties.Resources.resources
+c:\users\nidal almoliky\documents\visual studio 2012\Projects\project Books\project Books\obj\Debug\project Books.csproj.GenerateResource.Cache
+c:\users\nidal almoliky\documents\visual studio 2012\Projects\project Books\project Books\obj\Debug\project Books.exe
+c:\users\nidal almoliky\documents\visual studio 2012\Projects\project Books\project Books\obj\Debug\project Books.pdb
+C:\Users\nidal almoliky\Documents\Visual Studio 2012\Projects\project Books\project Books\bin\Debug\Bunifu.Licensing.dll
+C:\Users\nidal almoliky\Documents\Visual Studio 2012\Projects\project Books\project Books\obj\Debug\project Books.csprojResolveAssemblyReference.cache
+C:\Users\nidal almoliky\Documents\Visual Studio 2012\Projects\project Books\project Books\obj\Debug\project_Books.view_trip.resources
+C:\Users\nidal almoliky\Documents\Visual Studio 2012\Projects\project Books\project Books\obj\Debug\project_Books.printData.resources
+C:\Users\nidal almoliky\Documents\Visual Studio 2012\Projects\project Books\project Books\obj\Debug\project_Books.contact_data.resources
