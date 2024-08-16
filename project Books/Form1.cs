@@ -22,7 +22,7 @@ namespace project_Books
             this.SetBounds(100, 100, 500, 300);
            
             this.Size = new Size(1000, 800);
-            this.Text = " واجهة البرنامج";
+            this.Text = " واجهة النظام";
            // this.FormBorderStyle=FormBorderStyle.None;
           //  this.CenterToScreen();
             this.Location = new Point((Screen.PrimaryScreen.Bounds.Width - this.Width) / 2, (Screen.PrimaryScreen.Bounds.Height - this.Height) / 2);
